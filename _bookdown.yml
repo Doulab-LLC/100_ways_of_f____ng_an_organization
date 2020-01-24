@@ -1,0 +1,5 @@
+book_filename: "100_ways_of_f____ng_an_organization"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapter "
