@@ -1,23 +1,23 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1579892880733.000,
+    "created" : 1579896367735.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "321317963",
-    "id" : "CE829926",
+    "hash" : "3989530828",
+    "id" : "A607402C",
     "lastKnownWriteTime" : 1579892877,
     "last_content_update" : 1579892877,
-    "path" : "C://100_ways_of_f____ng_an_organization/_bookdown.yml",
-    "project_path" : "_bookdown.yml",
+    "path" : "C://100_ways_of_f____ng_an_organization/book.bib",
+    "project_path" : "book.bib",
     "properties" : {
     },
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 2,
+    "relative_order" : 5,
     "source_on_save" : false,
     "source_window" : "",
-    "type" : "yaml"
+    "type" : "text"
 }

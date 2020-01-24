@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "203621217",
+    "hash" : "0",
     "id" : "BBD1D508",
-    "lastKnownWriteTime" : 1579892877,
-    "last_content_update" : 1579892877,
+    "lastKnownWriteTime" : 1579896553,
+    "last_content_update" : 1579896553136,
     "path" : "C://100_ways_of_f____ng_an_organization/index.Rmd",
     "project_path" : "index.Rmd",
     "properties" : {
+        "cursorPosition" : "32,25",
+        "scrollLine" : "17"
     },
     "read_only" : false,
     "read_only_alternatives" : [
